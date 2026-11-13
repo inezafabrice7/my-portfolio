@@ -8,7 +8,7 @@ export const usefulLinks = [
   {
     id: 1,
     title: 'Contact',
-    url: 'https://bio.link/inezafabrice',
+    url: 'https://linktr.ee/inezafabrice',
     description: 'Connect with me',
   },
 ]
