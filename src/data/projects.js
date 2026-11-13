@@ -1,0 +1,65 @@
+/**
+ * Project descriptions and statuses supplied for the portfolio.
+ * Screenshots and public repository/demo links have not been provided.
+ */
+export const projects = [
+  {
+    id: 1,
+    title: 'APADE Uniform Management System',
+    category: 'Education',
+    description: 'A digital system designed to manage student uniform requests, payments, preparation, and collection while reducing dependence on paper-based processes.',
+    longDescription: 'This system aims to digitize the uniform management process for educational institutions. It handles the full lifecycle from request to collection, replacing paper-based workflows with a streamlined digital process.',
+    technologies: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
+    features: [
+      'Student records',
+      'Uniform requests',
+      'Payment tracking',
+      'Request status',
+      'Admin dashboard',
+      'Collection tracking',
+    ],
+    github: '',
+    liveDemo: '',
+    status: 'In Development',
+    visual: 'education',
+  },
+  {
+    id: 2,
+    title: 'Hotel Management System',
+    category: 'Hospitality',
+    description: 'A modern hotel web application concept designed to improve hotel operations and customer communication.',
+    longDescription: 'A concept project exploring how software can streamline hotel operations — from bookings to staff communication — with potential for AI-powered customer assistance.',
+    technologies: ['React', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind CSS'],
+    features: [
+      'Hotel bookings',
+      'Customer requests',
+      'Orders',
+      'Service requests',
+      'Staff communication',
+      'Management dashboard',
+      'AI assistant integration',
+    ],
+    github: '',
+    liveDemo: '',
+    status: 'Concept',
+    visual: 'hospitality',
+  },
+  {
+    id: 3,
+    title: 'Stock Management System',
+    category: 'Operations',
+    description: 'A software solution for managing products, inventory, transactions, and reports.',
+    longDescription: 'A stock management solution designed to help businesses track inventory, manage transactions, and generate reports — bringing organization to stock-keeping processes.',
+    technologies: ['React', 'Node.js', 'Express.js', 'MongoDB'],
+    features: [
+      'Product management',
+      'Inventory tracking',
+      'Transaction records',
+      'Reports & analytics',
+    ],
+    github: '',
+    liveDemo: '',
+    status: 'In Development',
+    visual: 'operations',
+  },
+]

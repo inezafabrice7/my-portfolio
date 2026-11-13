@@ -1,0 +1,39 @@
+INEZA FABRICE
+Software Developer
+Rwanda
+
+CONTACT
+Email: inezafabrice85@gmail.com
+Phone: +250794671342
+GitHub: https://github.com/DaFabro
+Portfolio: 
+Instagram: https://instagram.com/ineza___fb
+
+PROFILE
+Software developer from Rwanda passionate about building useful digital solutions
+and continuously improving technical skills. Currently developing skills in
+modern full-stack development while exploring AI, cloud computing, Linux, and DevOps.
+
+TECHNICAL AREAS
+Frontend: HTML, CSS, JavaScript, React, Tailwind CSS
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB
+Programming: JavaScript, Python (learning), PHP (learning)
+Tools: Git, GitHub, VS Code, Postman, Linux (learning)
+Exploring: Artificial intelligence, machine learning, cloud computing, DevOps
+
+SELECTED PROJECTS
+APADE Uniform Management System — In Development
+A digital system concept for student uniform requests, payments, preparation,
+and collection.
+
+Hotel Management System — Concept
+A hotel web application concept for bookings, customer requests, orders,
+service requests, and staff communication.
+
+Stock Management System — In Development
+A software solution for product and inventory management, transactions, and reports.
+
+EDUCATION AND EXPERIENCE
+Specific institution names, qualifications, employment history, and dates have
+not been provided in the portfolio content.
